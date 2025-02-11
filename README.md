@@ -25,13 +25,5 @@ Postman Collection
 para probar los endpoints.
 Licencia
 • MIT (ejemplo)
-## 7. Subir Todo a GitHub
-1. Asegúrate de que tu `.gitignore` **ignore** `vendor/` 
-(Laravel), `node_modules/` (React) y `.env`.
-2. Añade `frontend/` y `backend/` al repositorio.
-3. Haz commit y push:
- git add .
- git commit -m "Add backend and frontend"
- git push
-En GitHub, verás tu carpeta laredu con subcarpetas backend y 
-frontend, junto a README.md.
+
+
